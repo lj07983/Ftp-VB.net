@@ -1,9 +1,9 @@
 ﻿Public Class Form1
 
     Private Sub Button1_Click(sender As Object, e As EventArgs) Handles Button1.Click
-        Dim ftpclient As System.Net.FtpWebRequest = System.Net.FtpWebRequest.Create(New System.Uri("ftp://183.136.203.146/软件"))
+        Dim ftpclient As System.Net.FtpWebRequest = System.Net.FtpWebRequest.Create(New System.Uri("ftp://10.11.192.199:2020/soft"))
         ftpclient.UseBinary = True
-        ftpclient.Credentials = New System.Net.NetworkCredential("upload", "upload")
+        ftpclient.Credentials = New System.Net.NetworkCredential("BSXweb", "BSX2018")
         ftpclient.Method = System.Net.WebRequestMethods.Ftp.ListDirectoryDetails
 
         ftpclient.KeepAlive = False

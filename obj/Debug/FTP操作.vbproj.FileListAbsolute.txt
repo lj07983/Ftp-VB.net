@@ -7,3 +7,14 @@ C:\Users\Administrator\Desktop\FTP操作\obj\Debug\FTP操作.vbproj.GenerateReso
 C:\Users\Administrator\Desktop\FTP操作\obj\Debug\FTP操作.exe
 C:\Users\Administrator\Desktop\FTP操作\obj\Debug\FTP操作.xml
 C:\Users\Administrator\Desktop\FTP操作\obj\Debug\FTP操作.pdb
+C:\Users\Administrator\Source\Repos\Ftp-VB.net\bin\Debug\FTP操作.exe
+C:\Users\Administrator\Source\Repos\Ftp-VB.net\bin\Debug\FTP操作.pdb
+C:\Users\Administrator\Source\Repos\Ftp-VB.net\bin\Debug\FTP操作.xml
+C:\Users\Administrator\Source\Repos\Ftp-VB.net\obj\Debug\FTP操作.vbprojAssemblyReference.cache
+C:\Users\Administrator\Source\Repos\Ftp-VB.net\obj\Debug\FTP操作.Form1.resources
+C:\Users\Administrator\Source\Repos\Ftp-VB.net\obj\Debug\FTP操作.Resources.resources
+C:\Users\Administrator\Source\Repos\Ftp-VB.net\obj\Debug\FTP操作.vbproj.GenerateResource.cache
+C:\Users\Administrator\Source\Repos\Ftp-VB.net\obj\Debug\FTP操作.vbproj.CoreCompileInputs.cache
+C:\Users\Administrator\Source\Repos\Ftp-VB.net\obj\Debug\FTP操作.exe
+C:\Users\Administrator\Source\Repos\Ftp-VB.net\obj\Debug\FTP操作.xml
+C:\Users\Administrator\Source\Repos\Ftp-VB.net\obj\Debug\FTP操作.pdb
